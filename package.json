@@ -4,6 +4,7 @@
   "description": "This is a Readme file.",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/vp-online-courses/webpack-tutorial#readme",
   "devDependencies": {
-    "webpack": "^5.73.0",
+    "webpack": "^5.90.3",
     "webpack-cli": "^4.10.0"
   }
 }
